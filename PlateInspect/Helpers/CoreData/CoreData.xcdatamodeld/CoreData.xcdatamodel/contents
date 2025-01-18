@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23231" systemVersion="24A348" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="CarInfoEntity" representedClassName="CarInfoEntity" syncable="YES">
+        <attribute name="carInfo" optional="YES" attributeType="Transformable" valueTransformerName="CarInfoTransformer" customClassName="CarInfoBox"/>
+    </entity>
+</model>
